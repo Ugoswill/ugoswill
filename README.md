@@ -58,5 +58,5 @@ Built to answer one question:
 ## Connect With Me
 
 - **Email:** [godswillugorji24@gmail.com](godswillugorji24@gmail.com)  
-- **LinkedIn:** [Ugorji Godswill](https://linkedin.com/ugorjigodswill)  
+- **LinkedIn:** [Ugorji Godswill](https://linkedin.com/in/ugorji-godswill-452468313)  
 - **Website:** [ugoswill.github.io](https://ugoswill.github.io)
