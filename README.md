@@ -2,7 +2,7 @@
 
 **Front-end Developer | Javascript and React **
 
-I build systems that turn hours of technical, tedious work into minutes of tech-empowered action so people can unlock their highest potential.
+I build systems that turn hours of technical, tedious work into minutes of tech-empowered action.
 
 
 ---
