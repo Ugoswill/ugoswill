@@ -1,6 +1,6 @@
 # Hey there, I'm Godswill 👋
 
-**Front-end Developer | Javascript and React **
+**Front-end Developer**
 
 I build systems that turn hours of technical, tedious work into minutes of tech-empowered action.
 
